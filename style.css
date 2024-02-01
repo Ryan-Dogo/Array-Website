@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(red,blue);
+}
+#submitbutton{
+	margin: 20px;
+}
+#sortbutton{
+	display: none;
+	margin: 20px;
+}
+input{
+	margin: 10px;
+  text-align: center;
+}
+#dncommas{
+	border: 1px solid black;
+  padding: 10px;
+	background-color: gold;
+	border-radius: 10px;
+  width: 50%;
+}
+#nocommas{
+	border: 1px solid red;
+    padding: 10px;
+    background-color: lightcoral;
+	border-radius: 10px;
+    width: 50%;
+}
